@@ -1,2 +1,2 @@
-/home/manugr21/Documents/Modulo_ejemplo/cpu_201404034.ko
-/home/manugr21/Documents/Modulo_ejemplo/cpu_201404034.o
+/home/manugr21/Documents/SO1-Proyecto1/CPU/cpu_201404034.ko
+/home/manugr21/Documents/SO1-Proyecto1/CPU/cpu_201404034.o
