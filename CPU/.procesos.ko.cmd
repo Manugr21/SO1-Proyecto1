@@ -1,0 +1,1 @@
+cmd_/home/manugr21/Documents/Modulo_ejemplo/procesos.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/manugr21/Documents/Modulo_ejemplo/procesos.ko /home/manugr21/Documents/Modulo_ejemplo/procesos.o /home/manugr21/Documents/Modulo_ejemplo/procesos.mod.o
